@@ -5,3 +5,4 @@ Exercises:
  * Reentrance
  * Elevator
  * GatekeeperOne
+ * GatekeeperTwo
